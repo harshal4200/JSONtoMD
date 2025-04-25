@@ -1,0 +1,13 @@
+{
+  "title": "Right-Angled Triangle Pattern",
+  "topic": "Patterns",
+  "subtopic": "Basic Pattern Printing",
+  "tags": "patterns,loops",
+  "level": "Easy",
+  "description": "Given an integer n, print a right-angled triangle pattern of '*' with n rows.",
+  "examples": "{\"example1\":\"Input: n = 3\\nOutput:\\n*\\n**\\n***\",\"example2\":\"Input: n = 5\\nOutput:\\n*\\n**\\n***\\n****\\n*****\"}",
+  "hints": "{\"hint1\":\"Use nested loops to print rows and columns.\",\"hint2\":\"Outer loop controls rows, inner loop controls columns.\"}",
+  "code_snippets": "{\"java\":\"class Solution {\\n    public void printTriangle(int n) {\\n        // Write your code here\\n    }\\n}\",\"python\":\"class Solution:\\n    def printTriangle(self, n: int):\\n        # Write your code here\\n        pass\",\"cpp\":\"#include <iostream>\\nusing namespace std;\\n\\nclass Solution {\\npublic:\\n    void printTriangle(int n) {\\n        // Write your code here\\n    }\\n};\"}",
+  "constraints": "{\"constraint1\":\"1 <= n <= 100\"}",
+  "test_cases": "{\"test1\":\"Input: 3 | Output:\\n*\\n**\\n***\",\"test2\":\"Input: 5 | Output:\\n*\\n**\\n***\\n****\\n*****\"}"
+}
